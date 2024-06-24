@@ -1,0 +1,27 @@
+* {
+  background-color: #8bd3e6;
+}
+
+.heading {
+  color: white;
+  text-align: center;
+  font-family: Ruslan Display;
+  font-size: larger;
+  font-size: 50px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+img {
+  display: block;
+  margin-left: 320px;
+  border-radius: 20px;
+  width: 250px;
+  height: auto;
+}
+
+img:hover {
+  width: 300px;
+  height: auto;
+  transition: 0.3s ease;
+}
